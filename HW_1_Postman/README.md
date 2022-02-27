@@ -1,4 +1,3 @@
-[В ответ на 27_group_channel]
 Postman.
 HW_1
 
