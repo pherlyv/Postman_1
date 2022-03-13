@@ -1,4 +1,3 @@
-[В ответ на Vadim_QA_Padawans_Channel]
 HW_2 Postman
 
 
